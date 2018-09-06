@@ -1,0 +1,14 @@
+--- !ruby/object:Livros
+titulo: Teste3
+categoria: Teste3
+autor: Teste3
+isbn: Teste
+id: 4
+
+--- !ruby/object:Livros
+titulo: Teste4
+categoria: Teste4
+autor: Teste4
+isbn: Teste4
+id: 4
+
